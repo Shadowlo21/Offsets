@@ -36,6 +36,7 @@
     "LastSubmitTimeOnScreen": "0x2E8",
     "pNameStructure": "0xA98",
     "Levels": "0x178",
+    "CurrentWeapons": "0x9D8",
     "CachedWorldOrLocalSpaceBounds": "0x788",
     "CustomTimeDilation": "0x68",
     "FPlatform": "0x3F0",
