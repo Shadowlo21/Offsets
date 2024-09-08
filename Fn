@@ -51,5 +51,6 @@
     "AmmoCount": "0xF0C",
     "GetProjectileSpeed": "0x1AB8",
     "GetProjectileGravity": "0x1D24",
+    "bAlreadySearched": "0xD9A",
     "TargetedFortPawn": "0x1898"
 }
