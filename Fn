@@ -44,7 +44,7 @@
     "HabaneroComponent": "0x9E8",
     "bTraceThroughWorld": "0xE71",
     "CurrentWeapon": "0x9D8",
-    "WeaponData": "0x510",
+    "WeaponData": "0x520",
     "ItemName": "0x40",
     "Tier": "0xA2",
     "bIsReloadingWeapon": "0x399",
