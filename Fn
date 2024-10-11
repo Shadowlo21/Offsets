@@ -52,7 +52,7 @@
     "GetProjectileSpeed": "0x1CC4",
     "GetProjectileGravity": "0x1F34",
     "bAlreadySearched": "0xD9A",
-    "SpawnSourceOverride": "0xC40",
+    "SpawnSourceOverride": "0xc48",
     "ItemType": "0xA0",
     "bCanBeMarked": "0xd99",
     "TargetedFortPawn": "0x1898"
