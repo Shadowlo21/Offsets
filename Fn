@@ -51,9 +51,9 @@
     "AmmoCount": "0xF0C",
     "GetProjectileSpeed": "0x1CC4",
     "GetProjectileGravity": "0x1F34",
-    "bAlreadySearched": "0xD9A",
+    "bAlreadySearched": "0xda2",
     "SpawnSourceOverride": "0xc48",
     "ItemType": "0xA0",
-    "bCanBeMarked": "0xd99",
+    "bCanBeMarked": "0xda1",
     "TargetedFortPawn": "0x1898"
 }
