@@ -41,7 +41,7 @@
     "CachedWorldOrLocalSpaceBounds": "0x788",
     "CustomTimeDilation": "0x68",
     "FPlatform": "0x3F0",
-    "HabaneroComponent": "0x9E8",
+    "HabaneroComponent": "0x9D8",
     "bTraceThroughWorld": "0xE71",
     "CurrentWeapon": "0x9D8",
     "WeaponData": "0x520",
