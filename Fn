@@ -31,7 +31,7 @@
     "ActorCount": "0xA8",
     "LAST_SUMBIT_TIME": "0x2E0",
     "LAST_SUMBIT_TIME_ON_SCREEN": "0x2E8",
-    "BoneArray": "0x570",
+    "BoneArray": "0x580",
     "LastSubmitTime": "0x2E0",
     "LastSubmitTimeOnScreen": "0x2E8",
     "pNameStructure": "0xAD0",
