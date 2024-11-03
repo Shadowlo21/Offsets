@@ -32,8 +32,6 @@
     "LAST_SUMBIT_TIME": "0x2F0",
     "LAST_SUMBIT_TIME_ON_SCREEN": "0x2F8",
     "BoneArray": "0x580",
-    "LastSubmitTime": "0x2F0",
-    "LastSubmitTimeOnScreen": "0x2F8",
     "pNameStructure": "0xAD0",
     "Levels": "0x1A8",
     "CurrentWeapons": "0x9D8",
