@@ -40,7 +40,6 @@
     "FPlatform": "0x440",
     "HabaneroComponent": "0x9D8",
     "bTraceThroughWorld": "0xE71",
-    "CurrentWeapon": "0x5F8",
     "WeaponData": "0x548",
     "ItemName": "0x40",
     "Tier": "0xA2",
