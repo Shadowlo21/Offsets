@@ -8,7 +8,7 @@
     "LocalPawn": "0x350",
     "PlayerState": "0x2B0",
     "RootComponent": "0x1B0",
-    "GameState": "0x180",
+    "GameState": "0x190",
     "PersistentLevel": "0x30",
     "ComponetToWorld": "0x1c0",
     "Velocity": "0x168",
