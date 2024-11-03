@@ -23,7 +23,7 @@
     "PawnPrivate": "0x308",
     "bIsABot": "0x29A",
     "RelativeLocation": "0x120",
-    "PlayerArray": "0x2A8",
+    "PlayerArray": "0x2C0",
     "RootComponet": "0x198",
     "pawn_private": "0x308",
     "DefaultFOV": "0x2A4",
