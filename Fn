@@ -6,7 +6,7 @@
     "LocalPlayers": "0x38",
     "PlayerController": "0x30",
     "LocalPawn": "0x350",
-    "PlayerState": "0x2B0",
+    "PlayerState": "0x2c8",
     "RootComponent": "0x1B0",
     "GameState": "0x190",
     "PersistentLevel": "0x40",
