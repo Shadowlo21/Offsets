@@ -13,7 +13,7 @@
     "ComponetToWorld": "0x1c0",
     "Velocity": "0x168",
     "GunName": "0x98",
-    "IsDBNO": "0x8F2",
+    "IsDBNO": "0x6F0",
     "IsDying": "0x6D0",
     "CameraManager": "0x348",
     "Mesh": "0x328",
