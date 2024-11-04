@@ -44,7 +44,7 @@
     "Tier": "0xA2",
     "bIsReloadingWeapon": "0x391",
     "AmmoCount": "0xF0C",
-    "PrimaryPickupItemEntry": "0x348",
+    "PrimaryPickupItemEntry": "0x360",
     "ItemDefinition": "0x18",
     "GetProjectileSpeed": "0x203c",
     "GetProjectileGravity": "0x1d04",
