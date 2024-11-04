@@ -52,5 +52,6 @@
     "SpawnSourceOverride": "0xc68",
     "ItemType": "0xa0",
     "bCanBeMarked": "0xdc1",
+    "NetConnection": "0x520",
     "TargetedFortPawn": "0x18e8"
 }
