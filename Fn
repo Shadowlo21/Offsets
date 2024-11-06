@@ -53,5 +53,9 @@
     "ItemType": "0xa0",
     "bCanBeMarked": "0xdc1",
     "NetConnection": "0x520",
+    "TimeSeconds": "0x6D0",
+    "location_pointer": "0x120",
+    "rotation_pointer": "0x130",
+    "CameraFov": "0x3ac",
     "TargetedFortPawn": "0x18e8"
 }
