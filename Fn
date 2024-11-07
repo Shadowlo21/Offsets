@@ -7,7 +7,6 @@
     "PlayerController": "0x30",
     "LocalPawn": "0x350",
     "PlayerState": "0x2c8",
-    "RootComponent": "0x1B0",
     "GameState": "0x178",
     "PersistentLevel": "0x40",
     "ComponetToWorld": "0x1c0",
