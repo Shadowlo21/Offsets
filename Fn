@@ -26,7 +26,7 @@
     "RootComponet": "0x198",
     "pawn_private": "0x320",
     "DefaultFOV": "0x2A4",
-    "AActor": "0xA0",
+    "AActor": "0x38",
     "ActorCount": "0xA8",
     "LAST_SUMBIT_TIME": "0x348",
     "LAST_SUMBIT_TIME_ON_SCREEN": "0x2F0",
