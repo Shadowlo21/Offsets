@@ -31,7 +31,7 @@
     "LAST_SUMBIT_TIME_ON_SCREEN": "0x2F0",
     "BoneArray": "0x580",
     "pNameStructure": "0xAD0",
-    "Levels": "0x190",
+    "Levels": "0x1a0",
     "CurrentWeapons": "0x9F8",
     "CachedWorldOrLocalSpaceBounds": "0x798",
     "CustomTimeDilation": "0x68",
@@ -53,8 +53,8 @@
     "bCanBeMarked": "0xdc1",
     "NetConnection": "0x520",
     "TimeSeconds": "0x6D0",
-    "location_pointer": "0x120",
-    "rotation_pointer": "0x130",
+    "location_pointer": "0x128",
+    "rotation_pointer": "0x138",
     "CameraFov": "0x3ac",
     "TargetedFortPawn": "0x18e8"
 }
