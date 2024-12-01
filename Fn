@@ -53,8 +53,8 @@
     "bCanBeMarked": "0xdc1",
     "NetConnection": "0x520",
     "TimeSeconds": "0x148",
-    "location_pointer": "0x128",
-    "rotation_pointer": "0x138",
+    "location_pointer": "0x130",
+    "rotation_pointer": "0x140",
     "CameraFov": "0x3ac",
     "TargetedFortPawn": "0x18e8"
 }
