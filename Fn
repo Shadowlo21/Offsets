@@ -23,8 +23,8 @@ namespace SDK {
     int bIsABot = 0x2B2;
     int RelativeLocation = 0x138;
     int PlayerArray = 0x2C0;
-    int AActor = 0x128;
-    int ActorCount = 0x40;
+    int AActor = 0xA8;
+    int ActorCount = 0xB0;
     int ComponetToWorld = 0x1E0;
     int BoneArray = 0x5A8;
     int LAST_SUMBIT_TIME = 0x348;
