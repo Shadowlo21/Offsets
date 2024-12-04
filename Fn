@@ -1,55 +1,66 @@
-{
-  "UWorlds": 322233624,
-  "OwningWorld": 104,
-  "Gameinstance": 512,
-  "LocalPlayers": 56,
-  "PlayerController": 48,
-  "LocalPawn": 848,
-  "PlayerState": 712,
-  "RootComponet": 432,
-  "GameState": 392,
-  "PersistentLevel": 64,
-  "Velocity": 384,
-  "GunName": 152,
-  "IsDBNO": 2402,
-  "IsDying": 1816,
-  "Cameramanager": 864,
-  "Mesh": 808,
-  "Revivefromdbnotime": 19992,
-  "TeamId": 4705,
-  "pawn_private": 800,
-  "bIsABot": 690,
-  "RelativeLocation": 312,
-  "PlayerArray": 704,
-  "DefaultFOV": 676,
-  "AActor": 264,
-  "ActorCount": 64,
-  "ComponetToWorld": 480,
-  "BoneArray": 1448,
-  "LAST_SUMBIT_TIME": 840,
-  "LAST_SUMBIT_TIME_ON_SCREEN": 780,
-  "TimeSeconds": 336,
-  "pNameStructure": 2808,
-  "Levels": 408,
-  "FPlatform": 1072,
-  "HabaneroComponent": 2616,
-  "bAlreadySearched": 3594,
-  "SpawnSourceOverride": 3232,
-  "ItemType": 160,
-  "bCanBeMarked": 3593,
-  "NetConnection": 1312,
-  "CurrentWeapons": 2688,
-  "WeaponData": 1384,
-  "ItemName": 64,
-  "Tier": 162,
-  "PrimaryPickupItemEntry": 848,
-  "ItemDefinition": 40,
-  "bIsReloadingWeapon": 953,
-  "AmmoCount": 4172,
-  "GetProjectileSpeed": 7536,
-  "GetProjectileGravity": 7664,
-  "TargetedFortPawn": 6432,
-  "location_pointer": 304,
-  "rotation_pointer": 320,
-  "CameraFov": 940
+#pragma once
+
+namespace SDK {
+    int UWorlds = 0x13743D18;
+    int OwningWorld = 0x68;
+    int Gameinstance = 0x1F0;
+    int LocalPlayers = 0x38;
+    int PlayerController = 0x30;
+    int LocalPawn = 0x350;
+    int PlayerState = 0x2C8;
+    int RootComponet = 0x1B0;
+    int GameState = 0x178;
+    int PersistentLevel = 0x38;
+    int Velocity = 0x180;
+    int GunName = 0x98;
+    int IsDBNO = 0x962;
+    int IsDying = 0x718;
+    int Cameramanager = 0x360;
+    int Mesh = 0x328;
+    int Revivefromdbnotime = 0x4e18;
+    int TeamId = 0x1261;
+    int pawn_private = 0x320;
+    int bIsABot = 0x2B2;
+    int RelativeLocation = 0x138;
+    int PlayerArray = 0x2C0;
+    int AActor = 0x128;
+    int ActorCount = 0x40;
+    int ComponetToWorld = 0x1E0;
+    int BoneArray = 0x5A8;
+    int LAST_SUMBIT_TIME = 0x348;
+    int LAST_SUMBIT_TIME_ON_SCREEN = 0x30C;
+    int TimeSeconds = 0x150;
+    int pNameStructure = 0xAF8;
+    int Levels = 0x190;
+    int FPlatform = 0x430;
+    int HabaneroComponent = 0xa38;
+    int bAlreadySearched = 0xe0a;
+    int SpawnSourceOverride = 0xca0;
+    int ItemType = 0xa0;
+    int bCanBeMarked = 0xe09;
+    int NetConnection = 0x520;
+
+    namespace FortWeapon {
+        int CurrentWeapons = 0xA80;
+        int WeaponData = 0x548;
+        int ItemName = 0x40;
+        int Tier = 0xA2;
+        int PrimaryPickupItemEntry = 0x350;
+        int ItemDefinition = 0x28;
+    }
+
+    namespace Projectile {
+        int GetProjectileSpeed = 0x1D70;
+        int GetProjectileGravity = 0x1DF0;
+    }
+
+    namespace FortPawn {
+        int TargetedFortPawn = 0x1920;
+    }
+
+    namespace Camera {
+        int location_pointer = 0x120;
+        int rotation_pointer = 0x130;
+        int CameraFov = 0x3ac;
+    }
 }
